@@ -170,7 +170,7 @@ body .main .select .right .description {
     text-align: right;
     position: relative;
     top: 0;
-    right: 0px;
+    right: 0;
     margin: 82px;
 }
 body .main .select .right .description p {
@@ -189,7 +189,7 @@ body .main .select .right .image{
     background-color: rgb(108, 74, 74);
     margin-right: 82px;
     position: absolute;
-    right: 0;
+    left: 778px;
     top: 0;
 }
 body .main .select .right .image img {
